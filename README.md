@@ -1,1 +1,2 @@
-# edu-presidio-anonymizer
+# Presidio Anonymizer
+Anonymize html pages using Presidio Anonymizer
